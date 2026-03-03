@@ -1,6 +1,6 @@
 🌐 [Português](README.pt-br.md) | English
 
-> ⚠️ The dashboard visuals and data are in Portuguese (Brazil).
+>  The dashboard visuals and data are in Portuguese (Brazil).
 
 # 🏀 NBA MVP Analysis (1981–2021) — Power BI
 
@@ -91,7 +91,7 @@ In-depth comparison between **Michael Jordan, LeBron James, Kobe Bryant, and Ste
 
 ## 🗂️ Data Source
 
-- **Dataset:** [NBA MVP Voting — Kaggle](https://www.kaggle.com)
+- **Dataset:** [NBA MVP Voting — Kaggle]
 - **Coverage:** Seasons from 1981 to 2021
 - **Data included:** Individual statistics, MVP voting, team performance per season
 
