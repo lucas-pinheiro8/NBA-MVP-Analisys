@@ -2,7 +2,9 @@
 
 Dashboard interativo desenvolvido para analisar o histórico do prêmio **MVP (Most Valuable Player)** da NBA ao longo de 42 temporadas, explorando padrões de desempenho, impacto nos times e comparação entre os maiores jogadores da história da liga.
 
-![Dashboard Overview](screenshots/pagina-1.png)
+![Capa](Pag%201.png)
+
+[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/An%C3%A1lise_MVP_NBA.pbix)
 
 ---
 
@@ -17,7 +19,7 @@ Foram analisadas **42 temporadas** (1981–2021), com dados de **198 jogadores d
 ## 📄 Páginas do Dashboard
 
 ### Página 1 — Visão Geral dos MVPs
-![Visão Geral](screenshots/pagina-1.png)
+![Visão Geral](Pag%202.png)
 
 Panorama completo do histórico de MVPs com os principais KPIs e tendências:
 
@@ -33,12 +35,12 @@ Panorama completo do histórico de MVPs com os principais KPIs e tendências:
 ---
 
 ### Página 2 — Impacto do MVP no Time
-![Impacto no Time](screenshots/pagina-2.png)
+![Impacto no Time](Pag%203.png)
 
 Análise sobre a relação entre ter um MVP e o desempenho coletivo da franquia:
 
 - Comparação de vitórias entre times **com MVP** vs **sem MVP** por temporada (1980–2021)
-- Scatter plot de produção ofensiva: MVPs consistentemente acima da média da liga em pontos e USG% (participação nas posses ofensivas)
+- Scatter plot de produção ofensiva: MVPs consistentemente acima da média da liga em pontos e USG%
 - Gráfico de impacto nas vitórias por nível do time (Elite, Bom, Médio, Fraco)
 - **Insight destacado:** Não existem MVPs em times médios ou fracos — o prêmio está diretamente associado a equipes de alto desempenho
 - Medidor comparativo: média dos MVPs (26,9 pts) vs média dos candidatos Top 15 (21,8 pts)
@@ -46,11 +48,11 @@ Análise sobre a relação entre ter um MVP e o desempenho coletivo da franquia:
 ---
 
 ### Página 3 — Comparativo entre Lendas
-![Comparativo Lendas](screenshots/pagina-3.png)
+![Comparativo Lendas](Pag%204.png)
 
 Análise aprofundada comparando **Michael Jordan, LeBron James, Kobe Bryant e Stephen Curry**:
 
-- Pontuação média na carreira por jogador
+- Pontuação média na carreira por jogador:
   - Michael Jordan: **30,7 pts**
   - LeBron James: **26,9 pts**
   - Kobe Bryant: **27,7 pts**
@@ -63,12 +65,12 @@ Análise aprofundada comparando **Michael Jordan, LeBron James, Kobe Bryant e St
 
 ## 💡 Principais Insights
 
-- **Idade:** 76% dos MVPs foram conquistados por jogadores com mais de 26 anos, indicando que maturidade e experiência pesam na conquista do prêmio
-- **Time forte é obrigatório:** Nenhum MVP da história foi de um time médio ou fraco — o impacto coletivo é critério implícito
-- **Produção ofensiva:** MVPs têm USG% (participação nas posses) e média de pontos consistentemente acima da liga
-- **Maior vencedor:** Michael Jordan é o maior MVP da história com 5 títulos e média de 30,7 pts
-- **Maior presença:** LeBron James lidera em aparições no Top 5 de votação com 14 vezes
-- **Menor média:** O MVP de 2005 venceu com apenas 15,5 pts de média — uma anomalia histórica
+- **Idade:** 76% dos MVPs foram conquistados por jogadores com mais de 26 anos
+- **Time forte é obrigatório:** Nenhum MVP da história foi de um time médio ou fraco
+- **Produção ofensiva:** MVPs têm USG% e média de pontos consistentemente acima da liga
+- **Maior vencedor:** Michael Jordan com 5 títulos e média de 30,7 pts
+- **Maior presença:** LeBron James lidera em aparições no Top 5 com 14 vezes
+- **Menor média:** O MVP de 2005 venceu com apenas 15,5 pts — uma anomalia histórica
 
 ---
 
@@ -92,21 +94,16 @@ Análise aprofundada comparando **Michael Jordan, LeBron James, Kobe Bryant e St
 ---
 
 ## 📁 Estrutura do Repositório
-
 ```
-analise-mvp-nba/
+NBA-MVP-Analisys/
 ├── Análise_MVP_NBA.pbix     # Arquivo Power BI
 ├── README.md
-└── screenshots/
-    ├── pagina-1.png          # Visão Geral dos MVPs
-    ├── pagina-2.png          # Impacto do MVP no Time
-    └── pagina-3.png          # Comparativo entre Lendas
+├── Pag 1.png                # Capa do Dashboard
+├── Pag 2.png                # Visão Geral dos MVPs
+├── Pag 3.png                # Impacto do MVP no Time
+└── Pag 4.png                # Comparativo entre Lendas
 ```
 
 ---
 
-## 👨‍💻 Autor
 
-**Lucas Pinheiro**  
-Estudante de Engenharia de Software — UNIFACEF  
-GitHub: [@lucas-pinheiro8](https://github.com/lucas-pinheiro8)
