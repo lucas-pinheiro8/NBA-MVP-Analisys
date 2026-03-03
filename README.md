@@ -4,7 +4,7 @@ Dashboard interativo desenvolvido para analisar o histórico do prêmio **MVP (M
 
 ![Capa](Pag%201.png)
 
-[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/An%C3%A1lise_MVP_NBA.pbix)
+[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/An%C3%A1lise%20MVP%20NBA.pbix)
 
 ---
 
