@@ -1,4 +1,4 @@
-🌐 [Português](README.pt-br.md) | English
+| English
 
 > The dashboard visuals and data are in Portuguese (Brazil).
 
