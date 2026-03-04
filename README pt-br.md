@@ -2,6 +2,8 @@
 
 Dashboard interativo desenvolvido para analisar o histórico do prêmio **MVP (Most Valuable Player)** da NBA ao longo de 42 temporadas, explorando padrões de desempenho, impacto nos times e comparação entre os maiores jogadores da história da liga.
 
+### Página 1 — Capa
+
 ![Capa](PT%20-%20BR/P%C3%A1gina%201.png)
 
 [![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/PT%20-%20BR/An%C3%A1lise%20MVP%20NBA.pbix)
