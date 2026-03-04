@@ -2,9 +2,9 @@
 
 Interactive dashboard developed to analyze the history of the **MVP (Most Valuable Player)** award in the NBA over 42 seasons, exploring performance patterns, team impact, and a comparison between the greatest players in league history.
 
-![Cover](Pag%201%20-%20EN.png)
+![Cover](EN/Pag%201%20-%20EN.png)
 
-[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/NBA%20MVP%20Analisys%20-%20EN.pbix)
+[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/EN/NBA%20MVP%20Analisys%20-%20EN.pbix)
 
 ---
 
@@ -19,7 +19,7 @@ This project answers real questions about what defines an NBA MVP: do individual
 ## 📄 Dashboard Pages
 
 ### Page 1 — MVP Overview
-![MVP Overview](Pag%202%20-%20EN.png)
+![MVP Overview](EN/Pag%202%20-%20EN.png)
 
 A complete overview of the MVP history with key KPIs and trends:
 
@@ -35,7 +35,7 @@ A complete overview of the MVP history with key KPIs and trends:
 ---
 
 ### Page 2 — MVP Impact on the Team
-![Team Impact](Pag%203%20-%20EN.png)
+![Team Impact](EN/Pag%203%20-%20EN.png)
 
 Analysis of the relationship between having an MVP and the collective performance of the franchise:
 
@@ -48,7 +48,7 @@ Analysis of the relationship between having an MVP and the collective performanc
 ---
 
 ### Page 3 — Legends Comparison
-![Legends Comparison](Pag%204%20-%20EN.png)
+![Legends Comparison](EN/Pag%204%20-%20EN.png)
 
 In-depth comparison between **Michael Jordan, LeBron James, Kobe Bryant, and Stephen Curry**:
 
@@ -96,18 +96,20 @@ In-depth comparison between **Michael Jordan, LeBron James, Kobe Bryant, and Ste
 ## 📁 Repository Structure
 ```
 NBA-MVP-Analisys/
-├── Análise MVP NBA.pbix        # Power BI file (Portuguese)
-├── NBA MVP Analisys - EN.pbix  # Power BI file (English)
-├── README.md                   # English version
-├── README pt-br.md             # Portuguese version
-├── Pag 1 - EN.png              # Dashboard Cover (EN)
-├── Pag 2 - EN.png              # MVP Overview (EN)
-├── Pag 3 - EN.png              # Team Impact (EN)
-├── Pag 4 - EN.png              # Legends Comparison (EN)
-├── Pag 1.png                   # Dashboard Cover (PT)
-├── Pag 2.png                   # MVP Overview (PT)
-├── Pag 3.png                   # Team Impact (PT)
-└── Pag 4.png                   # Legends Comparison (PT)
+├── EN/
+│   ├── NBA MVP Analisys - EN.pbix  # Power BI file (English)
+│   ├── Pag 1 - EN.png              # Dashboard Cover
+│   ├── Pag 2 - EN.png              # MVP Overview
+│   ├── Pag 3 - EN.png              # Team Impact
+│   └── Pag 4 - EN.png              # Legends Comparison
+├── PT - BR/
+│   ├── Análise MVP NBA.pbix        # Arquivo Power BI (Português)
+│   ├── Pag 1.png                   # Capa do Dashboard
+│   ├── Pag 2.png                   # Visão Geral dos MVPs
+│   ├── Pag 3.png                   # Impacto do MVP no Time
+│   └── Pag 4.png                   # Comparativo entre Lendas
+├── README.md                       # English version
+└── README pt-br.md                 # Versão em português
 ```
 
 ---
