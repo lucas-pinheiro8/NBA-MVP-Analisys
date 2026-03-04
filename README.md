@@ -6,7 +6,7 @@ Interactive dashboard developed to analyze the history of the **MVP (Most Valuab
 
 ![Cover](EN/Page%201%20-%20EN.png)
 
-[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/EN/NBA%20MVP%20Analisys%20-%20EN.pbix)
+[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://raw.githubusercontent.com/lucas-pinheiro8/NBA-MVP-Analisys/main/EN/NBA%20MVP%20Analisys%20-%20EN.pbix)
 
 ---
 
