@@ -18,7 +18,7 @@ Foram analisadas **42 temporadas** (1981–2021), com dados de **198 jogadores d
 
 ## 📄 Páginas do Dashboard
 
-### Página 1 — Visão Geral dos MVPs
+### Página 2 — Visão Geral dos MVPs
 ![Visão Geral](PT%20-%20BR/P%C3%A1gina%202.png)
 
 Panorama completo do histórico de MVPs com os principais KPIs e tendências:
@@ -34,7 +34,7 @@ Panorama completo do histórico de MVPs com os principais KPIs e tendências:
 
 ---
 
-### Página 2 — Impacto do MVP no Time
+### Página 3 — Impacto do MVP no Time
 ![Impacto no Time](PT%20-%20BR/P%C3%A1gina%203.png)
 
 Análise sobre a relação entre ter um MVP e o desempenho coletivo da franquia:
@@ -47,7 +47,7 @@ Análise sobre a relação entre ter um MVP e o desempenho coletivo da franquia:
 
 ---
 
-### Página 3 — Comparativo entre Lendas
+### Página 4 — Comparativo entre Lendas
 ![Comparativo Lendas](PT%20-%20BR/P%C3%A1gina%204.png)
 
 Análise aprofundada comparando **Michael Jordan, LeBron James, Kobe Bryant e Stephen Curry**:
@@ -98,13 +98,13 @@ Análise aprofundada comparando **Michael Jordan, LeBron James, Kobe Bryant e St
 NBA-MVP-Analisys/
 ├── EN/
 │   ├── NBA MVP Analisys - EN.pbix  # Power BI file (English)
-│   ├── Page 1 - EN.png             # Dashboard Cover
+│   ├── Page 1 - EN.png             # Cover
 │   ├── Page 2 - EN.png             # MVP Overview
 │   ├── Page 3 - EN.png             # Team Impact
 │   └── Page 4 - EN.png             # Legends Comparison
 ├── PT - BR/
 │   ├── Análise MVP NBA.pbix        # Arquivo Power BI (Português)
-│   ├── Página 1.png                # Capa do Dashboard
+│   ├── Página 1.png                # Capa
 │   ├── Página 2.png                # Visão Geral dos MVPs
 │   ├── Página 3.png                # Impacto do MVP no Time
 │   └── Página 4.png                # Comparativo entre Lendas
