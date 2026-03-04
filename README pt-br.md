@@ -1,12 +1,10 @@
-| Português 
-
 # 🏀 Análise de MVPs da NBA (1981–2021) — Power BI
 
 Dashboard interativo desenvolvido para analisar o histórico do prêmio **MVP (Most Valuable Player)** da NBA ao longo de 42 temporadas, explorando padrões de desempenho, impacto nos times e comparação entre os maiores jogadores da história da liga.
 
-![Capa](Pag%201.png)
+![Capa](PT%20-%20BR/P%C3%A1gina%201.png)
 
-[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/An%C3%A1lise%20MVP%20NBA.pbix)
+[![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/PT%20-%20BR/An%C3%A1lise%20MVP%20NBA.pbix)
 
 ---
 
@@ -21,7 +19,7 @@ Foram analisadas **42 temporadas** (1981–2021), com dados de **198 jogadores d
 ## 📄 Páginas do Dashboard
 
 ### Página 1 — Visão Geral dos MVPs
-![Visão Geral](Pag%202.png)
+![Visão Geral](PT%20-%20BR/P%C3%A1gina%202.png)
 
 Panorama completo do histórico de MVPs com os principais KPIs e tendências:
 
@@ -37,7 +35,7 @@ Panorama completo do histórico de MVPs com os principais KPIs e tendências:
 ---
 
 ### Página 2 — Impacto do MVP no Time
-![Impacto no Time](Pag%203.png)
+![Impacto no Time](PT%20-%20BR/P%C3%A1gina%203.png)
 
 Análise sobre a relação entre ter um MVP e o desempenho coletivo da franquia:
 
@@ -50,7 +48,7 @@ Análise sobre a relação entre ter um MVP e o desempenho coletivo da franquia:
 ---
 
 ### Página 3 — Comparativo entre Lendas
-![Comparativo Lendas](Pag%204.png)
+![Comparativo Lendas](PT%20-%20BR/P%C3%A1gina%204.png)
 
 Análise aprofundada comparando **Michael Jordan, LeBron James, Kobe Bryant e Stephen Curry**:
 
@@ -98,13 +96,20 @@ Análise aprofundada comparando **Michael Jordan, LeBron James, Kobe Bryant e St
 ## 📁 Estrutura do Repositório
 ```
 NBA-MVP-Analisys/
-├── Análise MVP NBA.pbix     # Arquivo Power BI
-├── README.md                # Versão em inglês
-├── README.pt-br.md          # Versão em português
-├── Pag 1.png                # Capa do Dashboard
-├── Pag 2.png                # Visão Geral dos MVPs
-├── Pag 3.png                # Impacto do MVP no Time
-└── Pag 4.png                # Comparativo entre Lendas
+├── EN/
+│   ├── NBA MVP Analisys - EN.pbix  # Power BI file (English)
+│   ├── Page 1 - EN.png             # Dashboard Cover
+│   ├── Page 2 - EN.png             # MVP Overview
+│   ├── Page 3 - EN.png             # Team Impact
+│   └── Page 4 - EN.png             # Legends Comparison
+├── PT - BR/
+│   ├── Análise MVP NBA.pbix        # Arquivo Power BI (Português)
+│   ├── Página 1.png                # Capa do Dashboard
+│   ├── Página 2.png                # Visão Geral dos MVPs
+│   ├── Página 3.png                # Impacto do MVP no Time
+│   └── Página 4.png                # Comparativo entre Lendas
+├── README.md                       # English version
+└── README pt-br.md                 # Versão em português
 ```
 
 ---
