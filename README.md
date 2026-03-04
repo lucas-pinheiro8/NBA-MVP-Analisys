@@ -2,6 +2,8 @@
 
 Interactive dashboard developed to analyze the history of the **MVP (Most Valuable Player)** award in the NBA over 42 seasons, exploring performance patterns, team impact, and a comparison between the greatest players in league history.
 
+### Page 1 — Cover
+
 ![Cover](EN/Page%201%20-%20EN.png)
 
 [![Download Power BI](https://img.shields.io/badge/Download%20Dashboard-.pbix-yellow?style=for-the-badge&logo=powerbi)](https://github.com/lucas-pinheiro8/NBA-MVP-Analisys/raw/main/EN/NBA%20MVP%20Analisys%20-%20EN.pbix)
@@ -18,7 +20,7 @@ This project answers real questions about what defines an NBA MVP: do individual
 
 ## 📄 Dashboard Pages
 
-### Page 1 — MVP Overview
+### Page 2 — MVP Overview
 ![MVP Overview](EN/Page%202%20-%20EN.png)
 
 A complete overview of the MVP history with key KPIs and trends:
@@ -34,7 +36,7 @@ A complete overview of the MVP history with key KPIs and trends:
 
 ---
 
-### Page 2 — MVP Impact on the Team
+### Page 3 — MVP Impact on the Team
 ![Team Impact](EN/Page%203%20-%20EN.png)
 
 Analysis of the relationship between having an MVP and the collective performance of the franchise:
@@ -47,7 +49,7 @@ Analysis of the relationship between having an MVP and the collective performanc
 
 ---
 
-### Page 3 — Legends Comparison
+### Page 4 — Legends Comparison
 ![Legends Comparison](EN/Page%204%20-%20EN.png)
 
 In-depth comparison between **Michael Jordan, LeBron James, Kobe Bryant, and Stephen Curry**:
@@ -98,13 +100,13 @@ In-depth comparison between **Michael Jordan, LeBron James, Kobe Bryant, and Ste
 NBA-MVP-Analisys/
 ├── EN/
 │   ├── NBA MVP Analisys - EN.pbix  # Power BI file (English)
-│   ├── Page 1 - EN.png             # Dashboard Cover
+│   ├── Page 1 - EN.png             # Cover
 │   ├── Page 2 - EN.png             # MVP Overview
 │   ├── Page 3 - EN.png             # Team Impact
 │   └── Page 4 - EN.png             # Legends Comparison
 ├── PT - BR/
 │   ├── Análise MVP NBA.pbix        # Arquivo Power BI (Português)
-│   ├── Página 1.png                # Capa do Dashboard
+│   ├── Página 1.png                # Capa
 │   ├── Página 2.png                # Visão Geral dos MVPs
 │   ├── Página 3.png                # Impacto do MVP no Time
 │   └── Página 4.png                # Comparativo entre Lendas
